@@ -1,0 +1,9 @@
+Actinic_Keratoses
+Basal_cell_carcinoma
+Benign_keratosis
+Dermatofibroma
+Melanoma
+Melanocytic_nevi
+Vascular_skin_lesions
+Normal_skin
+Acne
