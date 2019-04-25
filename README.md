@@ -20,4 +20,4 @@ The purpose of the project is to give the user a probabilistic prediction on the
 ![frontend](./resources/images/login_page.jpeg)
 
 ## Contact
-* Feel free to contact on me on nikhil.css97@gmail.com with any questions or if you are interested in contributing!
+* Feel free to contact me on nikhil.css97@gmail.com with any questions or if you are interested in contributing!
