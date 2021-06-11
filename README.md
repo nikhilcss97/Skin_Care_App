@@ -1,4 +1,5 @@
 # Skin_Care_App
+Unskript2k19 Winning Solution!
 An android app that classifies among 8 different skin cancers + normal skin based on images of the affected part
 
 #### -- Project Status: Active
